@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Code-Connect
 
-## Getting Started
+**Code-Connect** é uma aplicação desenvolvida com [Next.js](https://nextjs.org/), que exibe posts relacionados à programação. O projeto foi criado como parte de um curso da Alura e tem como objetivo demonstrar a navegação entre páginas sem o recarregamento completo do navegador, além de exibir conteúdo de cada post ao clicar nele.
 
-First, run the development server:
+## Funcionalidades
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Exibição de posts sobre programação.
+- Navegação entre posts sem recarregar a página.
+- Estilização com CSS Modules.
+- API local para fornecer o conteúdo dos posts, levantada com `json-server`.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tecnologias Utilizadas
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Next.js**: Framework React com renderização híbrida (estática e dinâmica).
+- **React**: Biblioteca JavaScript para construção de interfaces.
+- **CSS Modules**: Para escopo local de estilos e melhor manutenção.
+- **Json-server**: Para simular uma API que fornece os dados dos posts.
+- **Imagem otimizada com o componente `Image` do Next.js**.
+- **Links dinâmicos com o componente `Link` do Next.js**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Aprendizados
 
-## Learn More
+Neste projeto, explorei várias funcionalidades do Next.js, como:
 
-To learn more about Next.js, take a look at the following resources:
+- Uso do componente `Image` para otimização de imagens.
+- Criação de rotas dinâmicas para páginas com variáveis na URL.
+- Acessar parâmetros de rota (query strings) diretamente na URL.
+- Navegação com `Link` para evitar carregamento completo da página.
+- Levantamento de uma API com `json-server` para fornecer os dados de forma local.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Como Executar o Projeto
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Clone o repositório:
+   ```bash
+   git clone git@github.com:FabioMedeiros1000/code-connect-next.git
+   ```
 
-## Deploy on Vercel
+2. Instale as dependências:
+   ```bash
+   npm install
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. Execute o servidor de desenvolvimento:
+   ```bash
+   npm run dev
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+4. Inicie o `json-server` para levantar a API:
+   ```bash
+   json-server posts.json -p 4032
+   ```
+
+5. Acesse a aplicação no navegador:
+   ```
+   http://localhost:3000
+   ```
