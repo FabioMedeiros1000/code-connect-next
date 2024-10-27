@@ -141,3 +141,171 @@
 {"level":"info","message":"Posts obtidos com sucesso"}
 {"level":"info","message":"Posts obtidos com sucesso"}
 {"level":"info","message":"Posts obtidos com sucesso"}
+{"error":{"clientVersion":"5.21.1","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
+{"error":{"clientVersion":"5.21.1","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
+{"error":{"clientVersion":"5.21.1","code":"P2021","meta":{"modelName":"Post","table":"public.Post"},"name":"PrismaClientKnownRequestError"},"level":"error","message":"Falha ao obter posts"}
+{"error":{"clientVersion":"5.21.1","code":"P2021","meta":{"modelName":"Post","table":"public.Post"},"name":"PrismaClientKnownRequestError"},"level":"error","message":"Falha ao obter posts"}
+{"error":{"clientVersion":"5.21.1","code":"P2021","meta":{"modelName":"Post","table":"public.Post"},"name":"PrismaClientKnownRequestError"},"level":"error","message":"Falha ao obter posts"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"error":{"clientVersion":"5.21.1","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
+{"error":{"clientVersion":"5.21.1","code":"P2021","meta":{"modelName":"Post","table":"public.Post"},"name":"PrismaClientKnownRequestError"},"level":"error","message":"Falha ao obter posts"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"gerenciamento-de-estado-com-reduxs"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"gerenciamento-de-estado-com-reduxs"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"gerenciamento-de-estado-com-reduxs"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"not-found"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"gerenciamento-de-estado-com-reduxs"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"gerenciamento-de-estado-com-reduxs"}
+{"error":{"clientVersion":"5.21.1","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
