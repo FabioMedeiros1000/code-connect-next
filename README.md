@@ -41,8 +41,8 @@
 
 3. Configure o banco de dados:
 
-- Certifique-se de ter o Docker instalado e em execução.
-- Execute o container do PostgreSQL com Docker:
+   - Certifique-se de ter o Docker instalado e em execução.
+   - Execute o container do PostgreSQL com Docker:
 
   ```bash
    docker-compose up -d
