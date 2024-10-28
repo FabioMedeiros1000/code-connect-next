@@ -1,32 +1,30 @@
 # Code-Connect
 
-**Code-Connect** é uma aplicação desenvolvida com [Next.js](https://nextjs.org/), que exibe posts relacionados à programação. O projeto foi criado como parte de um curso da Alura e tem como objetivo demonstrar a navegação entre páginas sem o recarregamento completo do navegador, além de exibir conteúdo de cada post ao clicar nele.
+**Code-Connect** é uma aplicação desenvolvida com [Next.js](https://nextjs.org/) para exibir posts sobre programação. O projeto foi parte de um curso da Alura.
 
 ## Funcionalidades
 
-- Exibição de posts sobre programação.
-- Navegação entre posts sem recarregar a página.
-- Estilização com CSS Modules.
-- API local para fornecer o conteúdo dos posts, levantada com `json-server`.
+- Exibição de posts sobre programação com conteúdo interativo.
+- Navegação entre posts.
+- Estilização modular com CSS Modules.
+- Busca e filtragem de posts.
+- Persistência de dados com banco de dados PostgreSQL e Prisma.
 
 ## Tecnologias Utilizadas
 
-- **Next.js**: Framework React com renderização híbrida (estática e dinâmica).
+- **Next.js**: Framework React para renderização híbrida.
 - **React**: Biblioteca JavaScript para construção de interfaces.
-- **CSS Modules**: Para escopo local de estilos e melhor manutenção.
-- **Json-server**: Para simular uma API que fornece os dados dos posts.
-- **Imagem otimizada com o componente `Image` do Next.js**.
-- **Links dinâmicos com o componente `Link` do Next.js**.
+- **CSS Modules**: Para estilização modular.
+- **Prisma**: ORM para integração com banco de dados PostgreSQL.
+- **PostgreSQL**: Banco de dados para armazenamento de posts.
+- **Docker**: Containerização do banco de dados.
 
 ## Aprendizados
 
-Neste projeto, explorei várias funcionalidades do Next.js, como:
-
-- Uso do componente `Image` para otimização de imagens.
-- Criação de rotas dinâmicas para páginas com variáveis na URL.
-- Acessar parâmetros de rota (query strings) diretamente na URL.
-- Navegação com `Link` para evitar carregamento completo da página.
-- Levantamento de uma API com `json-server` para fornecer os dados de forma local.
+- Configuração e uso do PostgreSQL com Prisma.
+- Criação de rotas dinâmicas e navegação eficiente com Next.js.
+- Uso do Docker para configurar e gerenciar ambientes de banco de dados.
+- Melhoria da UX com CSS Modules e busca dinâmica.
 
 ## Como Executar o Projeto
 
@@ -36,21 +34,40 @@ Neste projeto, explorei várias funcionalidades do Next.js, como:
    ```
 
 2. Instale as dependências:
+
    ```bash
    npm install
    ```
 
-3. Execute o servidor de desenvolvimento:
-   ```bash
-   npm run dev
+3. Configure o banco de dados:
+
+- Certifique-se de ter o Docker instalado e em execução.
+- Execute o container do PostgreSQL com Docker:
+
+  ```bash
+   docker-compose up -d
    ```
 
-4. Inicie o `json-server` para levantar a API:
-   ```bash
-   json-server posts.json -p 4032
-   ```
+4. Migre o banco de dados com Prisma:
 
-5. Acesse a aplicação no navegador:
-   ```
-   http://localhost:3000
-   ```
+```bash
+npx prisma migrate dev
+```
+
+5. Realize o seed dos dados para popular o banco com posts:
+
+```bash
+npx prisma db seed
+```
+
+6. Execute o servidor de desenvolvimento:
+
+```bash
+npm run dev
+```
+
+7. Acesse a aplicação no navegador:
+
+```bash
+http://localhost:3000
+```
