@@ -50,24 +50,24 @@
 
 4. Migre o banco de dados com Prisma:
 
-```bash
-npx prisma migrate dev
-```
+   ```bash
+   npx prisma migrate dev
+   ```
 
 5. Realize o seed dos dados para popular o banco com posts:
 
-```bash
-npx prisma db seed
-```
+   ```bash
+   npx prisma db seed
+   ```
 
 6. Execute o servidor de desenvolvimento:
 
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
 7. Acesse a aplicação no navegador:
 
-```bash
-http://localhost:3000
-```
+   ```bash
+   http://localhost:3000
+   ```
