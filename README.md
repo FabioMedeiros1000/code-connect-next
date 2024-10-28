@@ -37,13 +37,18 @@
    git clone git@github.com:FabioMedeiros1000/code-connect-next.git
    ```
 
-2. Instale as dependências:
+2. Entre na pasta do projeto:
+   ```bash
+   cd code-connect-next
+   ```
+
+3. Instale as dependências:
 
    ```bash
    npm install
    ```
 
-3. Configure o banco de dados:
+4. Configure o banco de dados:
 
    - Certifique-se de ter o Docker instalado e em execução.
    - Execute o container do PostgreSQL com Docker:
@@ -53,25 +58,25 @@
    docker-compose up -d
    ```
 
-4. Migre o banco de dados com Prisma:
+5. Migre o banco de dados com Prisma:
 
    ```bash
    npx prisma migrate dev
    ```
 
-5. Realize o seed dos dados para popular o banco com posts:
+6. Realize o seed dos dados para popular o banco com posts:
 
    ```bash
    npx prisma db seed
    ```
 
-6. Execute o servidor de desenvolvimento:
+7. Execute o servidor de desenvolvimento:
 
    ```bash
    npm run dev
    ```
 
-7. Acesse a aplicação no navegador:
+8. Acesse a aplicação no navegador:
 
    ```bash
    http://localhost:3000
