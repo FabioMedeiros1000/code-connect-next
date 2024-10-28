@@ -2,6 +2,8 @@
 
 **Code-Connect** é uma aplicação desenvolvida com [Next.js](https://nextjs.org/) para exibir posts sobre programação. O projeto foi parte de um curso da Alura.
 
+[Code-connect screeshot](./screenshot.png)
+
 ## Funcionalidades
 
 - Exibição de posts sobre programação com conteúdo interativo.
