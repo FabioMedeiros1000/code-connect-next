@@ -83,6 +83,6 @@
    ```
 
 > **Nota**  
-> ⚠️ O deploy atual apresenta algumas inconsistências e não reflete a versão mais recente do projeto.  
+> ⚠️ O deploy atual apresenta algumas inconsistências e não reflete a versão mais recente do projeto!
 > Para acessar a versão totalmente atualizada, faça o download do repositório e rode o projeto localmente.
 
