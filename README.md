@@ -3,7 +3,7 @@
 **Code-Connect** é uma aplicação desenvolvida com [Next.js](https://nextjs.org/) para exibir posts sobre programação. O projeto foi parte de um curso da Alura.
 
 <p align="center">
-  <img src="./screenshot.png" alt="Code-Connect Screenshot">
+  <img src="./screenshot.png" alt="Code-Connect Screenshot"> 
 </p>
 
 ## Funcionalidades
