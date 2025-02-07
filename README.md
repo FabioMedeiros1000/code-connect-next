@@ -12,6 +12,7 @@
 - Navegação entre posts.
 - Estilização modular com CSS Modules.
 - Busca e filtragem de posts.
+- Curtir, comentar e comentar um comentário de um post.
 - Persistência de dados com banco de dados PostgreSQL e Prisma.
 
 ## Tecnologias Utilizadas
@@ -81,8 +82,4 @@
    ```bash
    http://localhost:3000
    ```
-
-> **Nota**  
-> ⚠️ O deploy atual apresenta algumas inconsistências e não reflete a versão mais recente do projeto!
-> Para acessar a versão totalmente atualizada, faça o download do repositório e rode o projeto localmente.
 
